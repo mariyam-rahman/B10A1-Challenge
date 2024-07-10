@@ -49,7 +49,7 @@
 }
 /* header style   */
 .header {
-  background-image: url(/assets/Hero-bg.png);
+  background-image: url(./assets/Hero-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
